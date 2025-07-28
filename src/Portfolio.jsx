@@ -302,7 +302,7 @@ const Portfolio = () => {
   // Render Skills Section
   const renderSkills = () => (
     <div className="space-y-8">
-      <h2 className="text-4xl font-bold mb-8 text-center lg:text-left" style={{ color: '#052A6F' }}>Skills & Technologies</h2>
+      <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-12 pt-12 md:pt-0 text-center lg:text-left" style={{ color: '#052A6F' }}>Skills & Technologies</h2>
       {Object.entries(skillsData).map(([category, skills], index) => (
         <div key={index} className="bg-gray-50 p-8 rounded-xl shadow-lg">
           <h3 className="text-2xl font-bold mb-6" style={{ color: '#052A6F' }}>{category}</h3>
