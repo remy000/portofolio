@@ -54,7 +54,7 @@ const Portfolio = () => {
 
   // Profile Section Data
   const profileData = {
-    summary: "Passionate Data Scientist and Software Engineer specializing in AI technologies and data-driven solutions. Proficient in Python, SQL, Java, and ML frameworks including TensorFlow and PyTorch. Focused on transforming complex data into actionable insights and building scalable software systems.",
+    summary: "Passionate Data Scientist and Software Engineer specializing in AI technologies and data-driven solutions. Proficient in Python, SQL, Java, JavaScript and ML frameworks including TensorFlow and PyTorch. Focused on transforming complex data into actionable insights and building scalable software systems.",
     image: profilePhoto
   };
 
