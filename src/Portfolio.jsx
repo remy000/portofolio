@@ -116,6 +116,13 @@ const Portfolio = () => {
 
   // Certificates Data
   const certificatesData = [
+     {
+      title: "Deep Learning for Computer Vision",
+      issuer: "World Quant University",
+      year: "2025",
+      description: "Comprehensive training in deep learning techniques for computer vision applications",
+      link: "https://www.credly.com/badges/83071f9f-ad00-4523-a030-2cc92cf63eb8/public_url"
+    },
     {
       title: "Optimizing Machine Learning Models in Python",
       issuer: "DataQuest",
@@ -124,12 +131,13 @@ const Portfolio = () => {
       link: "https://app.dataquest.io/view_cert/OMWVFQNTSY6O6GC367S1"
     },
     {
-      title: "Deep Learning for Computer Vision",
-      issuer: "World Quant University",
+      title: "Working with Data Sources Using SQL",
+      issuer: "DataQuest",
       year: "2025",
-      description: "Comprehensive training in deep learning techniques for computer vision applications",
-      link: "https://www.credly.com/badges/83071f9f-ad00-4523-a030-2cc92cf63eb8/public_url"
+      description: "Working with SQL queries, subqueries, Window functions and joins to extract and manipulate data from relational databases",
+      link: "https://app.dataquest.io/view_cert/HRVBOINLX2E9AS60GI4E"
     },
+
     {
       title: "Data Analysis and Visualization",
       issuer: "DataQuest",
